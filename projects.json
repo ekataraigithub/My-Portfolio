@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Payment gateway",
+    "desc": "Donation website is created using HTML,CSS, With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "wamp",
+    "links": {
+      "view": "https://sparkbyekata.netlify.app/",
+      "code": "https://github.com/ekataraigithub/sparks"
+    }
+  },
+  {
+    "name": "PG-Life Website",
+    "desc": "PGLife website is created using React ,PHP for students to search for good accommodation when they join college/university.",
+    "image": "pglife",
+    "category": "SCRATCH",
+    "links": {
+      "view": "https://mypglifewebsite.000webhostapp.com/",
+      "code": "https://github.com/MahiTzy/PG-Life"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "prtfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/MahiTzy/Portfolio_Mohit"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jsproject",
+    "category": "basicweb",
+    "links": {
+      "view": "https://mahitzy.github.io/JavaScript-Projects/",
+      "code": "https://github.com/MahiTzy/JavaScript-Projects"
+    }
+  }
+]
